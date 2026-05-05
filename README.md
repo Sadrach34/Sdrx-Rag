@@ -134,7 +134,7 @@ You can also donate if you want to support development.
 </div>
 
 * GitHub: [https://github.com/Sadrach34](https://github.com/Sadrach34)
-* Email: *(your email here)*
+* Email: *jdiego0805+dev@gmail.com*
 
 > I respond faster on GitHub.
 
